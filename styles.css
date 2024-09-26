@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: antiquewhite;
+
+}
+
+body{
+    background-color: rgb(120, 152, 206);
+    color: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 480px){
+    body{
+        background-color: red;
+    }
+}
